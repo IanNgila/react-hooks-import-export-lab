@@ -1,4 +1,8 @@
 import React from "react";
+import About from '/home/ianngila/Development/code/phase2/react-hooks-import-export-lab/src/components/About.js'
+import Home from '/home/ianngila/Development/code/phase2/react-hooks-import-export-lab/src/components/Home.js'
+import NavBar from '/home/ianngila/Development/code/phase2/react-hooks-import-export-lab/src/components/NavBar.js'
+
 
 function App() {
   return (
@@ -9,5 +13,4 @@ function App() {
     </div>
   );
 }
-
-export default App;
+export default App
